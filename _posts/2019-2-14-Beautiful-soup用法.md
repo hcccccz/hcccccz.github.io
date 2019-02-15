@@ -1,7 +1,11 @@
 ---
+
 title:Beautiful soup用法
 tags:bs4
+
 ---
+
+
 
 Beautiful soup 对象可分为4种：Tag, NavigableString, BeautifulSoup, Comment.
 
