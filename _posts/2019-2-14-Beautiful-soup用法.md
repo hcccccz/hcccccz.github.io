@@ -1,8 +1,6 @@
 ---
-
-title:Beautiful soup用法
-tags:bs4
-
+title: Beautiful soup用法
+tags: bs4
 ---
 
 
@@ -39,4 +37,3 @@ tag的contents属性可以将tag的子节点以列表方式输出
 ```python
 
 ```
-
