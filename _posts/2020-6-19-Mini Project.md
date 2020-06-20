@@ -1,7 +1,7 @@
 ---
 title: Mini project
 tags: metr
-typora-root-url: ..
+
 ---
 
 
