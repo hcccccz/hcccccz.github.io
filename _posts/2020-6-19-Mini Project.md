@@ -1,3 +1,11 @@
+
+---
+title: Mini project
+tags: metr
+typora-root-url: ..
+---
+
+
 ​	In this assignment, I will focus on the change in ocean temperature. ocean temperatures are an important indicator and aspect of global warming. It provides information on how global warming impacts on the ocean. The ocean absorbs heat that comes from emitted greenhouse gas and causes ocean warming. The ocean temperature also changes periodically. For example, El Nino, which occurs in the eastern Pacific Ocean, often affects the global climate. But observations show a slow rise in sea temperatures over the long term
 
 ​	Based on data from the National Oceanic and Atmospheric Administration, we can observe an upper trend of global ocean temperature from the 1900s to the current by using the time series model. From 1900 to 2020, global ocean temperature anomalies have increased from approximately -0.40℃ to 0.95°C.
@@ -13,11 +21,11 @@
 
 
 
-For humans, rising ocean temperatures have many effects. For example, sea level rise caused by ocean warming has compressed human living space by rising sea level. Also, ocean warming cause more severe tropical cyclone over the world Because the energy of tropical cyclones mainly comes from the heat of surface water. The effects of tropical cyclones are mainly seasonal. Tropical cyclones are strong in autumn and summer which cause the reduction of agricultural production. We can see that named storms in Atlantic region have increase since 1930.
+​	For humans, rising ocean temperatures have many effects. For example, sea level rise caused by ocean warming has compressed human living space by rising sea level. Also, ocean warming cause more severe tropical cyclone over the world Because the energy of tropical cyclones mainly comes from the heat of surface water. The effects of tropical cyclones are mainly seasonal. Tropical cyclones are strong in autumn and summer which cause the reduction of agricultural production. We can see that named storms in Atlantic region have increase since 1930.
 
 <img src = "/assets/images/Mini_project/at.png" width = "600" height = "400" />
 
-Reference
+#### Reference
 
 Ocean deoxygenation. (2020, April 02). Retrieved June 20, 2020, from https://www.iucn.org/resources/issues-briefs/ocean-deoxygenation
 
