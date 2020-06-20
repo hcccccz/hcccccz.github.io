@@ -1,4 +1,3 @@
-
 ---
 title: Mini project
 tags: metr
