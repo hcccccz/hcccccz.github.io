@@ -9,7 +9,7 @@ tags: metr
 
 ​	Based on data from the National Oceanic and Atmospheric Administration, we can observe an upper trend of global ocean temperature from the 1900s to the current by using the time series model. From 1900 to 2020, global ocean temperature anomalies have increased from approximately -0.40℃ to 0.95°C.
 
-<img src = "/assets/images/Mini_project/t.png" width = "600" height = "400" />
+<img src = "/assets/images/Mini_project/t.png"  />
 
 
 
